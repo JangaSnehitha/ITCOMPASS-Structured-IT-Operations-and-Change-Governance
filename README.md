@@ -1,4 +1,4 @@
-# ChangeOps – IT Change Request and Approval Management System
+# ITCOMPASS: Structured IT Operations and Change Governance
 
 A web-based IT Change Management System designed to manage IT change requests through a structured approval and implementation workflow. The application helps organizations manage changes systematically by incorporating risk assessment, multi-level approvals, scheduling, audit tracking and role-based access control.
 
