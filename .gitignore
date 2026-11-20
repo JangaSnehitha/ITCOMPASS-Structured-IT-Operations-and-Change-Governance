@@ -1,0 +1,43 @@
+
+# Node modules
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Build files
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Coverage reports
+coverage/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code workspace settings
+.vscode/*
+!.vscode/extensions.json
+
+# Temporary files
+tmp/
+temp/
+
+# Python cache (if any)
+__pycache__/
+*.pyc
