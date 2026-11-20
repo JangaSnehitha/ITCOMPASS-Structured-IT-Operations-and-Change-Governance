@@ -4,7 +4,7 @@ A web-based IT Change Management System designed to manage IT change requests th
 
 ##  Project Overview
 
-ChangeOps is a centralized platform for managing IT infrastructure and service-related changes. It provides a controlled workflow in which users can create change requests, managers and administrators review and approve them, and implementation activities can be tracked.
+ITCOMPASS is a centralized platform for managing IT infrastructure and service-related changes. It provides a controlled workflow in which users can create change requests, managers and administrators review and approve them, and implementation activities can be tracked.
 
 The project applies concepts learned during the ServiceNow Virtual Internship by implementing similar IT Service Management (ITSM) concepts in a custom web application.
 
@@ -222,7 +222,8 @@ Through this project, the following concepts were applied:
 
 ## 👩‍💻 Project Information
 
-**Project Name:** ChangeOps – IT Change Request and Approval Management System
+**Project Name:** ITCOMPASS: Structured IT Operations and Change Governance
+
 
 **Domain:** IT Service Management (ITSM)
 
